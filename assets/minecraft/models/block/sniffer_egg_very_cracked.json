@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/sniffer_egg",
+  "textures": {
+    "bottom": "minecraft:block/minuma001",
+    "east": "minecraft:block/minuma001",
+    "north": "minecraft:block/minuma001",
+    "south": "minecraft:block/minuma001",
+    "top": "minecraft:block/minuma001",
+    "west": "minecraft:block/minuma001"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ambientocclusion": false,
+  "textures": {
+    "particle": "minecraft:block/minuma001",
+    "glow_lichen": "minecraft:block/minuma001"
+  },
+  "elements": [
+    {
+      "from": [
+        0,
+        0,
+        0.1
+      ],
+      "to": [
+        16,
+        16,
+        0.1
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            16,
+            0,
+            0,
+            16
+          ],
+          "texture": "#glow_lichen"
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#glow_lichen"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "block/observer",
+  "textures": {
+    "bottom": "minecraft:block/minuma001"
+  }
+}

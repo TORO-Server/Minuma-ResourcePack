@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/template_cauldron_level1",
+  "textures": {
+    "bottom": "minecraft:block/minuma001",
+    "content": "minecraft:block/minuma001",
+    "inside": "minecraft:block/minuma001",
+    "particle": "minecraft:block/minuma001",
+    "side": "minecraft:block/minuma001",
+    "top": "minecraft:block/minuma001"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/crafter_triggered",
+  "textures": {
+    "top": "minecraft:block/minuma001",
+    "north": "minecraft:block/minuma001",
+    "east": "minecraft:block/minuma001",
+    "west": "minecraft:block/minuma001"
+  }
+}

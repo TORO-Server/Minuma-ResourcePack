@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable_with_bottom",
+  "textures": {
+    "bottom": "minecraft:block/minuma001",
+    "front": "minecraft:block/minuma001",
+    "side": "minecraft:block/minuma001",
+    "top": "minecraft:block/minuma001"
+  }
+}

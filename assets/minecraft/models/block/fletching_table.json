@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "minecraft:block/minuma001",
+    "east": "minecraft:block/minuma001",
+    "north": "minecraft:block/minuma001",
+    "particle": "minecraft:block/minuma001",
+    "south": "minecraft:block/minuma001",
+    "up": "minecraft:block/minuma001",
+    "west": "minecraft:block/minuma001"
+  }
+}

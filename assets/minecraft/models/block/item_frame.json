@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/template_item_frame",
+  "textures": {
+    "particle": "minecraft:block/minuma001",
+    "wood": "minecraft:block/minuma001",
+    "back": "minecraft:block/minuma001"
+  }
+}
