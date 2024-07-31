@@ -7,3 +7,5 @@
 - Minecraft の効果音がすべて見沼になる
 - Minecraft のブロックがすべて見沼になる
 - Minecraft のアイテムがすべて見沼になる
+
+![screenshot](./.github/assets/screenshot001.png)
