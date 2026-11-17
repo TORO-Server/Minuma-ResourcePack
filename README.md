@@ -1,6 +1,6 @@
 # Minuma-ResourcePack
 
-すべてが見沼になる Minecraft Java版リソースパック
+すべてが見沼になる Minecraft Javaバージョンリソースパック
 
 ## 機能一覧
 
